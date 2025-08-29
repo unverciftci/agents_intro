@@ -4,7 +4,7 @@ AI agents (also called LLM agents) are autonomous software that interact with th
 
 Here you can find notebooks which can run locally or on Google Colab so that you have full control of your agent:
 
-- [Notebook 1.](https://github.com/unverciftci/agents_intro/blob/main/N1.ipynb) We make out tiny LLM model up and running.
+- [Notebook 1.](https://nbsanity.com/unverciftci/agents_intro/blob/main/N1.ipynb) We make out tiny LLM model up and running.
 - Notebook 2. This is our first agent which can use tools.
 - Notebook 3. For multi-turn tasks we provide memory to our agent.
 - Notebook 4. Our agent can now take actions to do the task.
